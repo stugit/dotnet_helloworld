@@ -1,0 +1,12 @@
+C:\Users\kotg\Documents\workspace\dotnet_helloworld
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=dotnet_helloworld
+--content-root=C:\Users\kotg\Documents\workspace\dotnet_helloworld
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Home\About.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Home\Contact.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Home\Index.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Shared\Error.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Shared\_Layout.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\_ViewImports.cshtml
+--file=C:\Users\kotg\Documents\workspace\dotnet_helloworld\Views\_ViewStart.cshtml

@@ -1,0 +1,10 @@
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\bin\Debug\netcoreapp2.0\dotnet_helloworld.deps.json
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\bin\Debug\netcoreapp2.0\dotnet_helloworld.runtimeconfig.json
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\bin\Debug\netcoreapp2.0\dotnet_helloworld.runtimeconfig.dev.json
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\bin\Debug\netcoreapp2.0\dotnet_helloworld.dll
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\bin\Debug\netcoreapp2.0\dotnet_helloworld.pdb
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\obj\Debug\netcoreapp2.0\dotnet_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\obj\Debug\netcoreapp2.0\dotnet_helloworld.AssemblyInfoInputs.cache
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\obj\Debug\netcoreapp2.0\dotnet_helloworld.AssemblyInfo.cs
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\obj\Debug\netcoreapp2.0\dotnet_helloworld.dll
+C:\Users\kotg\Documents\workspace\dotnet_helloworld\obj\Debug\netcoreapp2.0\dotnet_helloworld.pdb
